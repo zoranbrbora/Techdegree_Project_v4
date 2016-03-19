@@ -1,0 +1,23 @@
+
+
+
+@media screen and (min-width: 1020px) {
+  input[type="text"] {
+    max-width: 460px;
+  }
+  
+  .gallery a,
+  .gallery iframe {
+    display: inline-block;
+    margin: 0 2% 30px 2%;
+  }
+  
+  .gallery a:nth-child(5) {
+    margin-top: 10px;
+  }
+  
+  .gallery a:nth-child(9) {
+    margin-top: 10px;
+  }
+  
+}
