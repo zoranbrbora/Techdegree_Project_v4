@@ -6,8 +6,7 @@
     max-width: 460px;
   }
   
-  .gallery a,
-  .gallery iframe {
+  .gallery a {
     display: inline-block;
     margin: 0 2% 30px 2%;
   }
