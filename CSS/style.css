@@ -122,6 +122,10 @@ div {
   justify-content: space-around;
 }
 
+.gallery a:nth-child(n+1) {
+    margin-top: 10px;
+  }
+
 
 
 .span {
