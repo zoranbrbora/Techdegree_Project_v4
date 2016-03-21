@@ -2,9 +2,7 @@
 
 
 @media screen and (min-width: 1020px) {
-  input[type="text"] {
-    max-width: 460px;
-  }
+  
   
   .gallery a {
     display: inline-block;
